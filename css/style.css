@@ -10,12 +10,12 @@ body {
   display: block;
 }
 
-.main {
+#main {
   position: relative;
   display: block;
 }
 
-.header {
+#header {
   background-color: #eee;
   position: fixed;
   top: 0;
